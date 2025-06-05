@@ -20,10 +20,21 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.iemmanuel.RideAlertMob",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBVAeA20Clm6jI1DBjAnSxmEzrG30xVA7g"
+        }
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f5b12b2a-6c59-4172-9a0b-b1506b48ab4d"
+      }
     }
   }
 }

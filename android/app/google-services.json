@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22635390816",
+    "project_id": "ridealert-location",
+    "storage_bucket": "ridealert-location.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22635390816:android:27054ec1b3a9e33a08a005",
+        "android_client_info": {
+          "package_name": "com.iemmanuel.RideAlertMob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8FtrnMZB_QEIG6gF-XO58c2C26kJD4J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
